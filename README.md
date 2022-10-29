@@ -11,3 +11,9 @@
 
 <h3>XAMPP - Para Criar Um Servidor Local.<h3>
 <a href="[l1nq.com/XampInstaler](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe)" rel="stylesheet">BAIXAR</a>
+
+<h4>PASSOS</h4>
+Extrair os arquivos da pasta Clinica para a pasta 'htdocs' dentro da pasta Xampp na Unidade C:.
+
+Abrir o Xampp e dar Start no Apache.
+Abrir o navegador e acessar o 'Localhost/clinica' 
