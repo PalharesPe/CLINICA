@@ -13,3 +13,6 @@ l1nq.com/InstaladorVSCode
 #Instalador do XAMP - Para Criar Um Servidor Local.
 
 l1nq.com/XampInstaler
+
+
+<a href="l1nq.com/XampInstaler" rel="stylesheet">XAMP</a>
